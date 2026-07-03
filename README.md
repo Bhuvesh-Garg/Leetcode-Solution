@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,8 @@
 | ------- |
 | [0015-3sum](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0018-4sum) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
