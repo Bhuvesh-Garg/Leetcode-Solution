@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0011-container-with-most-water](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
