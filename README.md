@@ -16,6 +16,7 @@
 | [0048-rotate-image](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0056-merge-intervals) |
 ## Binary Search
 |  |
 | ------- |
