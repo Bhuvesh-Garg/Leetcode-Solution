@@ -16,6 +16,7 @@
 | [0048-rotate-image](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0162-find-peak-element) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -81,4 +83,5 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
