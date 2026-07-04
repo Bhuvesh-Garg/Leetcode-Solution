@@ -23,6 +23,7 @@
 | [0162-find-peak-element](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0162-find-peak-element](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
