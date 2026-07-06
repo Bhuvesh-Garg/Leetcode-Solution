@@ -19,6 +19,7 @@
 | [0056-merge-intervals](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0162-find-peak-element) |
@@ -48,6 +49,7 @@
 | [0018-4sum](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0015-3sum](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
