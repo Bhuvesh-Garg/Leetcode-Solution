@@ -126,4 +126,12 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
