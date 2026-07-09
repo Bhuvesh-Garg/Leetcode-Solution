@@ -48,6 +48,7 @@
 | [0009-palindrome-number](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0050-powx-n) |
+| [1903-largest-odd-number-in-string](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
