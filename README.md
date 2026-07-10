@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0242-valid-anagram) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
@@ -138,6 +140,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
