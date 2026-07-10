@@ -44,6 +44,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0075-sort-colors](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -157,4 +160,16 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
