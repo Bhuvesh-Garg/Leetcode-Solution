@@ -31,7 +31,7 @@ public:
                 
             }
             if(add<last){
-                ans-=add;
+                ans=ans-add;
                 continue;
             }
             ans+=add;
