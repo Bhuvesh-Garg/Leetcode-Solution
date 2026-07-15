@@ -58,6 +58,7 @@
 | [0048-rotate-image](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,4 +192,8 @@
 | [0203-remove-linked-list-elements](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
