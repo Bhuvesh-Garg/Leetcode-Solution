@@ -14,7 +14,7 @@ public:
         if(head==NULL||head->next==NULL){
             return head;
         }
-        ListNode* temp=head;
+        ListNode* temp=nullptr;
         ListNode* prev=nullptr;
         unordered_set<int> set(nums.begin(), nums.end());
         while (set.count(head->val) > 0) {
@@ -24,10 +24,8 @@ public:
         while(temp!=nullptr){
             
             if (set.count(temp->val) > 0) {
-                ListNode* nodeToDelete = temp;
                 temp = temp->next;
-                prev->next = temp;
-                delete nodeToDelete;          
+                prev->next = temp;          
             }
             else{
                 prev=temp;
