@@ -37,6 +37,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/1901-find-a-peak-element-ii) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0242-valid-anagram](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -188,4 +190,5 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
