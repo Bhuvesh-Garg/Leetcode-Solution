@@ -16,24 +16,23 @@ public:
         }
         ListNode* temp=head;
         ListNode* prev=nullptr;
-        unordered_set<int> set;
-        for(int i=0;i<nums.size();i++){
-            set.insert(nums[i]);
-        }
+        unordered_set<int> set(nums.begin(), nums.end());
         while (set.count(head->val) > 0) {
             head = head->next;
         }
         temp=head;
         while(temp!=nullptr){
-            if(set.count(temp->val)>0){
-                temp=temp->next;
-                prev->next=temp;
-                
+            
+            if (set.count(temp->val) > 0) {
+                ListNode* nodeToDelete = temp;
+                temp = temp->next;
+                prev->next = temp;
+                delete nodeToDelete;          
             }
             else{
-            prev=temp;
-            temp=temp->next;}
-        }
+                prev=temp;
+                temp=temp->next;}
+            }   
         return head;
     }
 };
