@@ -124,6 +124,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Bhuvesh-Garg/Leetcode-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
